@@ -1,0 +1,33 @@
+h1 {
+    color: rgb(164, 4, 196);
+}
+
+h2 {
+    color: crimson;
+}
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 13px;
+}
+
+body {
+    background-color: rgb(88, 237, 188);
+}
+
+.row {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+    column-gap: 20px;
+}
+
+.item2 {
+    font-size: 13px;
+    text-align: center;
+}
+
+.contact-info {
+    text-align: center;
+    margin-top: 20px;
+}

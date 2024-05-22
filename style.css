@@ -1,5 +1,5 @@
 h1 {
-    color: rgb(164, 4, 196);
+    color: crimson;
 }
 
 h2 {
@@ -20,8 +20,8 @@ body {
     grid-template-columns: auto auto auto;
     padding: 10px;
     column-gap: 20px;
+    text-align: center;
 }
-
 .item2 {
     font-size: 13px;
     text-align: center;
@@ -35,4 +35,14 @@ footer {
 .contact-info {
     text-align: center;
     margin-top: 20px;
+}
+header {
+    background-color: #00bb4b;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+}
+.underline {
+    text-decoration: none;
+    color: inherit;
 }

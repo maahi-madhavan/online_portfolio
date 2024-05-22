@@ -1,0 +1,29 @@
+h2 {
+    color: blue;
+}
+body {
+    background-color: #00afbf;
+}
+footer {
+    background-color: #0022bb;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.row {
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 10px;
+    column-gap: 20px;
+    text-align: center;
+}
+.underline {
+    text-decoration: none;
+    color: inherit;
+}
+header {
+    background-color: #0022bb;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+}
